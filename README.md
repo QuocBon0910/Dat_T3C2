@@ -1,6 +1,6 @@
 # 👨‍💻 Về tôi
 
-### Xin chào! Tôi là [Tên của bạn] 👋
+### Xin chào! Tôi là [Nguyễn Quốc Đạt-22DH110742] 👋
 
 Tôi là một **Kỹ sư Phần mềm** đam mê, với sự quan tâm sâu sắc trong việc xây dựng các ứng dụng mạnh mẽ và có khả năng mở rộng. Tôi yêu thích làm việc với các công nghệ tiên tiến và luôn không ngừng học hỏi để cải thiện kỹ năng của mình. Với kinh nghiệm trong phát triển backend, frontend và các công nghệ đám mây, tôi phát triển tốt trong môi trường năng động, nơi giải quyết vấn đề và đổi mới là chìa khóa.
 
@@ -19,7 +19,7 @@ Tôi là một **Kỹ sư Phần mềm** đam mê, với sự quan tâm sâu s�
 - Triển khai các API RESTful và tích hợp các microservices cho các giải pháp backend có khả năng mở rộng.
 - Làm việc chặt chẽ với các đội ngũ đa chức năng để cung cấp các sản phẩm phần mềm chất lượng cao.
 
-### [Công ty/Dự án khác]  
+### [Đồ án tốt nghiệp]  
 *Lập trình viên Full-Stack*  
 *(Thời gian bắt đầu – Thời gian kết thúc)*  
 - Dẫn đầu phát triển các công cụ nội bộ, tối ưu hóa quy trình làm việc bằng Java và Spring Boot.
@@ -28,16 +28,16 @@ Tôi là một **Kỹ sư Phần mềm** đam mê, với sự quan tâm sâu s�
 
 ## 💻 Dự án
 
-1. **[Tên Dự án 1]**  
+1. **[Cửa hàng bán quần áo]**  
    Ứng dụng thương mại điện tử full-stack với quản lý sản phẩm thời gian thực, chức năng giỏ hàng và xử lý thanh toán. Xây dựng bằng React, Node.js, MySQL và triển khai trên AWS.
    - [GitHub Repo](#)
    - [Demo Trực tiếp](#)
 
-2. **[Tên Dự án 2]**  
+2. **[Quản lý bán cà phê]**  
    Ứng dụng quản lý tài chính cá nhân được xây dựng bằng JavaFX, cho phép người dùng theo dõi chi tiêu, tạo báo cáo và đặt mục tiêu ngân sách.
    - [GitHub Repo](#)
 
-3. **[Tên Dự án 3]**  
+3. **[Dịch vụ hỗ trợ khách hàng]**  
    Chatbot được điều khiển bởi xử lý ngôn ngữ tự nhiên sử dụng Python và TensorFlow, được thiết kế để hỗ trợ các yêu cầu dịch vụ khách hàng.
    - [GitHub Repo](#)
 
@@ -49,4 +49,4 @@ Tôi là một **Kỹ sư Phần mềm** đam mê, với sự quan tâm sâu s�
 
 ## 📫 Liên hệ với tôi
 
-- **Email**: [email-nguyenquocdat091003@gmail.com]
+- **Email**: [nguyenquocdat091003@gmail.com]
