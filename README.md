@@ -15,10 +15,6 @@ Tôi là một **Kỹ sư Phần mềm** đam mê, với sự quan tâm sâu s�
 - **Nền tảng đám mây**: AWS, Azure
 
 ## 📈 Kinh nghiệm làm việc
-
-### [Tên Công ty của bạn]  
-*Kỹ sư phần mềm*  
-*(Thời gian bắt đầu – Thời gian kết thúc)*  
 - Phát triển và duy trì các ứng dụng web sử dụng React.js, Node.js và TypeScript.
 - Triển khai các API RESTful và tích hợp các microservices cho các giải pháp backend có khả năng mở rộng.
 - Làm việc chặt chẽ với các đội ngũ đa chức năng để cung cấp các sản phẩm phần mềm chất lượng cao.
@@ -47,13 +43,10 @@ Tôi là một **Kỹ sư Phần mềm** đam mê, với sự quan tâm sâu s�
 
 ## 🎓 Học vấn
 
-**[Tên Trường Đại học của bạn]**  
-*Cử nhân Công nghệ Thông tin*  
-*(Ngày tốt nghiệp)*  
+**[Đại học ngoại ngữ và tin học thành phố Hồ Chí Minh]**  
+*Sinh viên Công nghệ Thông tin*   
 - Các môn học: Cấu trúc dữ liệu, Giải thuật, Hệ điều hành, Quản lý cơ sở dữ liệu, Kỹ thuật phần mềm.
 
 ## 📫 Liên hệ với tôi
 
-- **Email**: [email-của-bạn@example.com](mailto:email-của-bạn@example.com)
-- **LinkedIn**: [LinkedIn của bạn](#)
-- **Portfolio**: [Trang cá nhân của bạn](#)
+- **Email**: [email-nguyenquocdat091003@gmail.com]
